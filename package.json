@@ -1,6 +1,6 @@
 {
   "name": "sign-bit",
-  "description": "Correctly returns the sign of a IEEE-754 number as 1 or -1, including +/-0",
+  "description": "Correctly returns the sign bit of a IEEE-754 number as 1 or -1, including +/-0",
   "version": "1.0.1",
   "author": "Bret Comnes <bcomnes@gmail.com>",
   "bugs": {
