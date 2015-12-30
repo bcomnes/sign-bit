@@ -43,7 +43,7 @@ Math.sign(-0)  //  -0
 
 ## Why?
 
-
+See this thread: https://twitter.com/ydkjs/status/682225267276812288
 
 ## Contributing
 
@@ -53,6 +53,11 @@ Contributions welcome! Please read the [contributing guidelines](CONTRIBUTING.md
 
 - [Inspired by @YDKJS's tweet](https://twitter.com/ydkjs/status/682225267276812288)
 - [and the accompanying fixyFill](https://twitter.com/YDKJS/status/682226598683095040)
+- [mathworld.wolfram.com/Sign](http://mathworld.wolfram.com/Sign.html)
+- [tc39.github.io/ecma262/#sec-math.sign](https://tc39.github.io/ecma262/#sec-math.sign)
+- [en.wikipedia.org/wiki/Signed_zero](https://en.wikipedia.org/wiki/Signed_zero)
+- [en.wikipedia.org/wiki/One-sided_limit](https://en.wikipedia.org/wiki/One-sided_limit)
+- [en.wikipedia.org/wiki/IEEE_754-1985#Zero](https://en.wikipedia.org/wiki/IEEE_754-1985#Zero)
 
 ## License
 
