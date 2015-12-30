@@ -1,0 +1,29 @@
+{
+  "name": "get-sign",
+  "description": "Correctly returns the sign of a IEEE-754 number as 1 or -1, including +/-0",
+  "version": "1.0.0",
+  "author": "Bret Comnes <bcomnes@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/bcomnes/get-sign/issues"
+  },
+  "devDependencies": {
+    "standard": "*",
+    "tap-spec": "^4.0.2",
+    "tape": "^4.0.0"
+  },
+  "homepage": "https://github.com/bcomnes/get-sign",
+  "keywords": [
+    "es6",
+    "math",
+    "sign"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bcomnes/get-sign.git"
+  },
+  "scripts": {
+    "test": "tape test/*.js | tap-spec && standard"
+  }
+}
