@@ -15,7 +15,10 @@
   "keywords": [
     "es6",
     "math",
-    "sign"
+    "sign",
+    "IEEE-754",
+    "signed zeros",
+    "fixyFill"
   ],
   "license": "ISC",
   "main": "index.js",
