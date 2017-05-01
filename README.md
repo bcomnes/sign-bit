@@ -1,5 +1,7 @@
 # sign-bit
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/bcomnes/sign-bit.svg)](https://greenkeeper.io/)
+
 [![npm][npm-image]][npm-url]
 [![travis][travis-image]][travis-url]
 [![standard][standard-image]][standard-url]
