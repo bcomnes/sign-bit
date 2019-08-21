@@ -7,7 +7,7 @@
     "url": "https://github.com/bcomnes/sign-bit/issues"
   },
   "devDependencies": {
-    "standard": "*",
+    "standard": "^14.0.0",
     "tap-spec": "^5.0.0",
     "tape": "^4.0.0"
   },
