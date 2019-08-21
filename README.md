@@ -45,6 +45,8 @@ Math.sign(-0)  //  -0
 
 See this thread: https://twitter.com/ydkjs/status/682225267276812288
 
+In retrospect, I think ydkjs is wrong on the confusion here.
+
 ## Contributing
 
 Contributions welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first.
